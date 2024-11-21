@@ -1,0 +1,9 @@
+@import './base.css';
+
+body {
+  font-family: Georgia, serif;
+}
+
+html {
+  scroll-behavior: smooth;
+}
