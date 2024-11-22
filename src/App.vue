@@ -1,6 +1,6 @@
 <template>
   <v-responsive>
-    <v-app>
+    <v-app class="limit-width">
       <TheHeader />
 
       <v-main>
@@ -47,5 +47,10 @@ export default {
   to {
     opacity: 100%;
   }
+}
+
+.limit-width {
+  max-width: 1400px;
+  margin: auto;
 }
 </style>
