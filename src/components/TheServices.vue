@@ -14,7 +14,7 @@
     <v-row justify="center" align="stretch" dense>
       <!-- Service 1 -->
       <v-col cols="12" sm="6" md="4" class="d-flex pa-2">
-        <v-card class="pa-4" outlined>
+        <v-card class="w-100 pa-4" outlined>
           <v-icon color="red" class="mb-4" size="64">mdi-gavel</v-icon>
           <h3 class="font-weight-bold mb-2">Courtroom Showdowns</h3>
           <div>
@@ -26,7 +26,7 @@
 
       <!-- Service 2 -->
       <v-col cols="12" sm="6" md="4" class="d-flex pa-2">
-        <v-card class="pa-4" outlined>
+        <v-card class="w-100 pa-4" outlined>
           <v-icon color="blue" class="mb-4" size="64">mdi-car</v-icon>
           <h3 class="font-weight-bold mb-2">Traffic Ticket Wizardry</h3>
           <div>
@@ -38,7 +38,7 @@
 
       <!-- Service 3 -->
       <v-col cols="12" sm="6" md="4" class="d-flex pa-2">
-        <v-card class="pa-4" outlined>
+        <v-card class="w-100 pa-4" outlined>
           <v-icon color="green" class="mb-4" size="64">mdi-handshake</v-icon>
           <h3 class="font-weight-bold mb-2">Shady Deals Made Simple</h3>
           <div>
@@ -49,7 +49,7 @@
 
       <!-- Service 4 -->
       <v-col cols="12" sm="6" md="4" class="d-flex pa-2">
-        <v-card class="pa-4" outlined>
+        <v-card class="w-100 pa-4" outlined>
           <v-icon color="orange" class="mb-4" size="64">mdi-lock-open-check</v-icon>
           <h3 class="font-weight-bold mb-2">Alibi Architect</h3>
           <div>
@@ -61,7 +61,7 @@
 
       <!-- Service 5 -->
       <v-col cols="12" sm="6" md="4" class="d-flex pa-2">
-        <v-card class="pa-4" outlined>
+        <v-card class="w-100 pa-4" outlined>
           <v-icon color="purple" class="mb-4" size="64">mdi-cash-multiple</v-icon>
           <h3 class="font-weight-bold mb-2">Money Mishap Fixer</h3>
           <div>Embezzled funds or tax troubles? Saul can make those numbers look... creative.</div>
@@ -70,7 +70,7 @@
 
       <!-- Service 6 -->
       <v-col cols="12" sm="6" md="4" class="d-flex pa-2">
-        <v-card class="pa-4" outlined>
+        <v-card class="w-100 pa-4" outlined>
           <v-icon color="brown" class="mb-4" size="64">mdi-account-off</v-icon>
           <h3 class="font-weight-bold mb-2">Identity Makeovers</h3>
           <div>
