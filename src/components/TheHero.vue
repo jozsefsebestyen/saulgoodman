@@ -30,4 +30,8 @@
 .welcome {
   font-style: italic;
 }
+
+:deep(.v-btn__content) {
+  white-space: pre-wrap;
+}
 </style>
