@@ -2,7 +2,7 @@
   <v-container>
     <v-row class="align-center">
       <v-col order-sm="2" cols="12" sm="7" md="6" xl="4">
-        <v-img height="600" cover src="/saul-cropped.jpg"></v-img>
+        <v-img height="600" cover src="/saulgoodman/saul-cropped.jpg"></v-img>
       </v-col>
       <v-col class="mt-1" sm="5" md="6" xl="8">
         <h1 class="mb-6">Legal trouble? Relax—S’all Good, Man!</h1>
