@@ -13,5 +13,12 @@ cp -r dist/* .
 
 rm -rf dist
 
+git add .
+git commit -m "Release $(date)"
+git push
+
+git checkout main
+git pull
+git status
 
 
